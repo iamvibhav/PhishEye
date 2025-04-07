@@ -12,6 +12,10 @@ The dataset used for training and testing the phishing detection model can be fo
 - Analysis of various features extracted from web pages
 - High accuracy and low false-positive rate
 
+![download](https://github.com/user-attachments/assets/9745f03b-9470-4778-88fb-21a63c33015a)
+![table](https://github.com/user-attachments/assets/eda74078-072a-4d09-8507-40bd861be622)
+
+
 ## Installation
 
 To install and set up the project, follow these steps:
